@@ -20,5 +20,5 @@ Link to files
 - [**activity_by_column.xml**](https://github.com/Muskaan0111/ExcelProblem/blob/master/ExcelProb/app/src/main/res/layout/weight_picker_column.xml)
 
 
-Download the [APK]() here
+Download the [APK](https://github.com/Muskaan0111/ExcelProblem/releases/download/v1.0/app-debug.apk) here
  
